@@ -1,0 +1,16 @@
+{
+  "name": "books-directory-api",
+  "version": "1.0.0",
+  "description": "This is a very simple RESTful API built for interacting with a database of books.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Bishara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "body-parser": "1.19.0",
+    "mongoose": "5.10.15"
+  }
+}
